@@ -15,7 +15,7 @@
 2.- Abre ```index.html``` en tu navegador favorito.
 
 ## Demo 💿️
-![label image](https://github.com/junix7/Task-app/blob/master/images/preview.png)
+![label image](https://github.com/junix7/responsive-form/blob/master/images/preview.png)
 
 Puedes ver un live demo en la siguiente dirección [Demo](https://junix7.github.io/responsive-form/).
 
